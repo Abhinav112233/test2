@@ -1,8 +1,5 @@
 main() {
 
-  var appname = "nennapp";
-  print(appname);
-
-
-
+  var xy = 'nee ethada naaye';
+  print('you are $xy');
 }
