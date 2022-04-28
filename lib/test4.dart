@@ -1,5 +1,11 @@
+import 'dart:io';
+
 main() {
 
-  var xy = 'appan';
-  print(xy);
+  stdout.writeln('Hey Guys');
+  var xy = stdin.readLineSync();
+
+  print("you are $xy");
+
+
 }
