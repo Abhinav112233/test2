@@ -10,13 +10,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'GIGA CHAD',
+      title: 'Jaada Scale ',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('GIGA CHAD'),
+          title: const Text('Jaada Scale'),
         ),
         body: const Center(
-          child: Text('Hello World'),
+          child: Text('click for one jaada'),
         ),
       ),
     );
